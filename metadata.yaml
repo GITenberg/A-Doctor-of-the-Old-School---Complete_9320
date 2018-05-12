@@ -1,10 +1,8 @@
 _repo: A-Doctor-of-the-Old-School---Complete_9320
-_version: 0.0.1
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 9320/9320-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 9320-h/images/cover.jpg
 creator:
   author:
     agent_name: Maclaren, Ian
@@ -15,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2364
     wikipedia: http://en.wikipedia.org/wiki/Ian_Maclaren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9320#A-Doctor-of-the-Old-School---Complete
 gutenberg_issued: '2004-08-09'
 gutenberg_type: Text
 identifiers:
